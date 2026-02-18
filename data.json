@@ -1,0 +1,5381 @@
+[
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "category",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "accounts",
+    "model": "account"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "store",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "carts",
+    "model": "cart"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "carts",
+    "model": "cartitem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "store",
+    "model": "variation"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "orders",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "orders",
+    "model": "orderproduct"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "orders",
+    "model": "payment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "accounts",
+    "model": "userprofile"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0w064w3y7byb1zzaei03tfsst4e1ubwg",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlkbf2NK-pzB2rU3OIAcKU4qxN1JpBTQzsx7bxFxW0vcGi9xyuIqgrj8MsL05HqI_MB6n2Wa67pMJI9EnrbJYc78up3t30HBVva18aMKnsF1VufcASZN7C1yT8zKOFTOBgg9gicT1E7RaARtRiClvRKfL94gN2s:1vpgSb:DLUiT_vpra790sEfiG4jcS3xGxUQiWRjs3E6h19VHpg",
+    "expire_date": "2026-02-24T05:38:53.320Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4hci2n4r3299izp1zah6odt7lpztqkkj",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlkbf2NK-pzB2rU3OIAcKU4qxN1JpBTQzsx7bxFxW0vcGi9xyuIqgrj8MsL05HqI_MB6n2Wa67pMJI9EnrbJYc78up3t30HBVva18aMKnsF1VufcASZN7C1yT8zKOFTOBgg9gicT1E7RaARtRiClvRKfL94gN2s:1vqUD7:4fvrv67Ell507KYrKU5pBkDvu4QMJxifeynmKhLwrRA",
+    "expire_date": "2026-02-26T10:46:13.531Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "aq45iyfru2numbozm9wjlp03ixfe90cp",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgGCgu3XsGMjBUqoYmpV0Z765NutDtf-_9l4i0rTVuvSxxYnEWBsTpd0yUH6XthO_UbrPMc1uXKcldkQft8jpzeV4O9--gUq_fGtEYA9nqpAoPwJjzOCjCkS0pH1wI1hFZ7TV5AyoF1rkoBMLggMiJ9wf2VDeS:1vnt3Q:_PfiguEeVi8lgzy_BNwUyjpEyzI371mF37-8qZHkC84",
+    "expire_date": "2026-02-19T06:41:28.290Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cprkt0vbxn1p6u8lqo6rg1vtslmx6k0l",
+  "fields": {
+    "session_data": "e30:1vpLss:Pt1kClX2szxmBGizgiec_WboPnDj6nhrNdC3wlnBg20",
+    "expire_date": "2026-02-23T07:40:38.101Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hxa96lc7l8d2k0dmgnh1wnhc7hf4tfua",
+  "fields": {
+    "session_data": "e30:1vqQTF:IeMNuqWIIl2tleNrPgAwqFeRd2jzATuTXJVasHcvBUg",
+    "expire_date": "2026-02-26T06:46:37.907Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "onlxvka6yhkxskybgg6q15zoxcjtcoeb",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgGCgu3XsGMjBUqoYmpV0Z765NutDtf-_9l4i0rTVuvSxxYnEWBsTpd0yUH6XthO_UbrPMc1uXKcldkQft8jpzeV4O9--gUq_fGtEYA9nqpAoPwJjzOCjCkS0pH1wI1hFZ7TV5AyoF1rkoBMLggMiJ9wf2VDeS:1vpOXg:BBNd_TL6j-8ke2KSovzPpVYEAzKbJYTEcb8b7Hn_XTo",
+    "expire_date": "2026-02-23T10:30:56.066Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "v1cfxipredn4lr4lo96n6ik683hux3ok",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgGCgu3XsGMjBUqoYmpV0Z765NutDtf-_9l4i0rTVuvSxxYnEWBsTpd0yUH6XthO_UbrPMc1uXKcldkQft8jpzeV4O9--gUq_fGtEYA9nqpAoPwJjzOCjCkS0pH1wI1hFZ7TV5AyoF1rkoBMLggMiJ9wf2VDeS:1vpMbN:Ryf7Kzdz4exCAaeD2idwpCukUKUqX3bTqqi49CdNzIg",
+    "expire_date": "2026-02-23T08:26:37.642Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wn9pa25u0rngd4vyo1squfhulwhvfuiu",
+  "fields": {
+    "session_data": "e30:1vpLss:Pt1kClX2szxmBGizgiec_WboPnDj6nhrNdC3wlnBg20",
+    "expire_date": "2026-02-23T07:40:38.167Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xu5d4oxb8xcd0l871jzgtcjchul2c20b",
+  "fields": {
+    "session_data": "e30:1vpLss:Pt1kClX2szxmBGizgiec_WboPnDj6nhrNdC3wlnBg20",
+    "expire_date": "2026-02-23T07:40:38.134Z"
+  }
+},
+{
+  "model": "category.category",
+  "pk": 1,
+  "fields": {
+    "category_name": "shirts",
+    "slug": "shirts",
+    "description": "these r shirts",
+    "cat_image": ""
+  }
+},
+{
+  "model": "category.category",
+  "pk": 2,
+  "fields": {
+    "category_name": "jackets",
+    "slug": "jackets",
+    "description": "these r jackets",
+    "cat_image": ""
+  }
+},
+{
+  "model": "category.category",
+  "pk": 3,
+  "fields": {
+    "category_name": "shorts",
+    "slug": "shorts",
+    "description": "these r shorts",
+    "cat_image": ""
+  }
+},
+{
+  "model": "category.category",
+  "pk": 4,
+  "fields": {
+    "category_name": "bag",
+    "slug": "bag",
+    "description": "these r bags",
+    "cat_image": ""
+  }
+},
+{
+  "model": "category.category",
+  "pk": 5,
+  "fields": {
+    "category_name": "watches",
+    "slug": "watches",
+    "description": "these r watches",
+    "cat_image": ""
+  }
+},
+{
+  "model": "category.category",
+  "pk": 6,
+  "fields": {
+    "category_name": "Shoes",
+    "slug": "shoes",
+    "description": "All Shoes",
+    "cat_image": ""
+  }
+},
+{
+  "model": "accounts.account",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$VPuBPXq8ZxsMclOtyjCER6$PAdkUIEpptmmzUh/INGUKzFiiRm3IGDPmSRal+oJuqY=",
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "ishq",
+    "email": "ishq@gmail.com",
+    "phone_number": "12345678",
+    "date_joined": "2026-02-02T05:19:46.917Z",
+    "last_login": "2026-02-12T10:46:13.519Z",
+    "is_admin": true,
+    "is_staff": true,
+    "is_active": true,
+    "is_superadmin": true
+  }
+},
+{
+  "model": "accounts.account",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$bpH8iaLaCdu1PU4E2JVuKC$JD82GmpdEsMBVmycI2BAyldRkjNi/vgJobnvKqdt4Vc=",
+    "first_name": "Nabeel",
+    "last_name": "Khan",
+    "username": "Nabeelahmadkhan928",
+    "email": "Nabeelahmadkhan928@gmail.com",
+    "phone_number": "0",
+    "date_joined": "2026-02-03T06:46:27.748Z",
+    "last_login": "2026-02-03T06:46:27.748Z",
+    "is_admin": false,
+    "is_staff": false,
+    "is_active": false,
+    "is_superadmin": false
+  }
+},
+{
+  "model": "accounts.account",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$NDSt0HNSAaNK9FywqjBrkZ$LaJQclY5LEGrDZrVdB1n7figwQsX1WKcMjL5L3ejusw=",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "username": "ishaaq.shaikh22",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "phone_number": "0",
+    "date_joined": "2026-02-03T10:09:37.849Z",
+    "last_login": "2026-02-09T10:30:56.053Z",
+    "is_admin": true,
+    "is_staff": true,
+    "is_active": true,
+    "is_superadmin": false
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "address_line_1": "ABCD",
+    "address_line_2": "EFGH",
+    "profile_picture": "userprofile/profile-2.png",
+    "city": "Pune",
+    "state": "MH",
+    "country": "India"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "profile_picture": "userprofile/profile_3NMhdgc.png",
+    "city": "Pune",
+    "state": "MH",
+    "country": "India"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 1,
+  "fields": {
+    "product_name": "wrangler teal shirt",
+    "slug": "wrangler-teal-shirt",
+    "description": "this is an authentic shirt",
+    "price": "200",
+    "images": "photos/products/1.jpg",
+    "stock": "5",
+    "is_available": true,
+    "category": 1,
+    "created_date": "2026-01-22T12:46:55.841Z",
+    "modified_date": "2026-01-22T12:46:55.841Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 2,
+  "fields": {
+    "product_name": "winter jacket",
+    "slug": "winter-jacket",
+    "description": "this is a jacket",
+    "price": "200",
+    "images": "photos/products/2.jpg",
+    "stock": "29",
+    "is_available": true,
+    "category": 2,
+    "created_date": "2026-01-22T12:48:01.481Z",
+    "modified_date": "2026-01-22T12:48:01.481Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 3,
+  "fields": {
+    "product_name": "jeans shorts",
+    "slug": "jeans-shorts",
+    "description": "these r jeans short good ones",
+    "price": "200",
+    "images": "photos/products/3.jpg",
+    "stock": "16",
+    "is_available": true,
+    "category": 3,
+    "created_date": "2026-01-22T12:48:47.919Z",
+    "modified_date": "2026-01-22T12:48:47.919Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 4,
+  "fields": {
+    "product_name": "blue bag",
+    "slug": "blue-bag",
+    "description": "this is original blue bag",
+    "price": "100",
+    "images": "photos/products/4.jpg",
+    "stock": "30",
+    "is_available": true,
+    "category": 4,
+    "created_date": "2026-01-22T12:49:25.290Z",
+    "modified_date": "2026-01-22T12:49:25.290Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 5,
+  "fields": {
+    "product_name": "original smart watches",
+    "slug": "original-smart-watches",
+    "description": "this is a smart watch",
+    "price": "300",
+    "images": "photos/products/7.jpg",
+    "stock": "20",
+    "is_available": true,
+    "category": 5,
+    "created_date": "2026-01-22T12:50:20.018Z",
+    "modified_date": "2026-01-22T12:50:20.018Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 6,
+  "fields": {
+    "product_name": "High Ankle Sneakers",
+    "slug": "high-ankle-sneakers",
+    "description": "This is an authentic sneaker",
+    "price": "320",
+    "images": "photos/products/12.jpg",
+    "stock": "50",
+    "is_available": true,
+    "category": 6,
+    "created_date": "2026-02-10T05:40:30.210Z",
+    "modified_date": "2026-02-10T05:40:30.210Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 7,
+  "fields": {
+    "product_name": "HP Laptop",
+    "slug": "laptop",
+    "description": "laptop",
+    "price": "4000",
+    "images": "photos/products/hplaptop_GmYbO32.jpg",
+    "stock": "30",
+    "is_available": true,
+    "category": 5,
+    "created_date": "2026-02-12T07:29:11.790Z",
+    "modified_date": "2026-02-12T07:29:11.790Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 9,
+  "fields": {
+    "product_name": "Notebook",
+    "slug": "Nb",
+    "description": "this is a notebook",
+    "price": "20",
+    "images": "photos/products/books_OJN2NpO.jpg",
+    "stock": "50",
+    "is_available": true,
+    "category": 1,
+    "created_date": "2026-02-12T12:33:16.240Z",
+    "modified_date": "2026-02-12T12:33:16.240Z"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 10,
+  "fields": {
+    "product_name": "BOTTLE",
+    "slug": "bt",
+    "description": "bottle",
+    "price": "34",
+    "images": "photos/products/books_507ngyU.jpg",
+    "stock": "34",
+    "is_available": true,
+    "category": 2,
+    "created_date": "2026-02-12T12:58:59.127Z",
+    "modified_date": "2026-02-12T12:58:59.127Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 1,
+  "fields": {
+    "product": 1,
+    "variation_category": "color",
+    "variation_value": "black",
+    "is_active": true,
+    "created_date": "2026-01-28T12:35:53.944Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 2,
+  "fields": {
+    "product": 3,
+    "variation_category": "color",
+    "variation_value": "white",
+    "is_active": true,
+    "created_date": "2026-01-28T12:36:21.847Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 3,
+  "fields": {
+    "product": 1,
+    "variation_category": "color",
+    "variation_value": "white",
+    "is_active": true,
+    "created_date": "2026-01-28T13:39:00.871Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 4,
+  "fields": {
+    "product": 1,
+    "variation_category": "size",
+    "variation_value": "large",
+    "is_active": true,
+    "created_date": "2026-01-28T13:39:10.841Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 5,
+  "fields": {
+    "product": 1,
+    "variation_category": "color",
+    "variation_value": "pink",
+    "is_active": true,
+    "created_date": "2026-01-28T13:39:18.588Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 6,
+  "fields": {
+    "product": 2,
+    "variation_category": "color",
+    "variation_value": "blue",
+    "is_active": true,
+    "created_date": "2026-01-28T13:39:37.856Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 7,
+  "fields": {
+    "product": 1,
+    "variation_category": "size",
+    "variation_value": "small",
+    "is_active": true,
+    "created_date": "2026-01-29T05:19:42.295Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 8,
+  "fields": {
+    "product": 5,
+    "variation_category": "color",
+    "variation_value": "large",
+    "is_active": true,
+    "created_date": "2026-02-02T06:29:13.690Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 9,
+  "fields": {
+    "product": 5,
+    "variation_category": "color",
+    "variation_value": "white",
+    "is_active": true,
+    "created_date": "2026-02-02T06:29:25.710Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 10,
+  "fields": {
+    "product": 3,
+    "variation_category": "size",
+    "variation_value": "small",
+    "is_active": true,
+    "created_date": "2026-02-02T06:29:34.017Z"
+  }
+},
+{
+  "model": "store.variation",
+  "pk": 11,
+  "fields": {
+    "product": 3,
+    "variation_category": "color",
+    "variation_value": "black",
+    "is_active": true,
+    "created_date": "2026-02-02T06:29:39.820Z"
+  }
+},
+{
+  "model": "carts.cart",
+  "pk": 42,
+  "fields": {
+    "cart_id": "joicun7u0ge570ygpgpjxhq0ijoskjv6",
+    "date_added": "2026-02-10T05:36:40.625Z"
+  }
+},
+{
+  "model": "carts.cart",
+  "pk": 43,
+  "fields": {
+    "cart_id": "hxa96lc7l8d2k0dmgnh1wnhc7hf4tfua",
+    "date_added": "2026-02-12T06:46:56.966Z"
+  }
+},
+{
+  "model": "carts.cart",
+  "pk": 44,
+  "fields": {
+    "cart_id": "mzexg73o7q2q3u6z1qpz49c3b2j6nyxo",
+    "date_added": "2026-02-12T10:46:08.070Z"
+  }
+},
+{
+  "model": "carts.cartitem",
+  "pk": 170,
+  "fields": {
+    "user": null,
+    "products": 1,
+    "cart": 43,
+    "quantity": "1",
+    "is_active": true,
+    "variations": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 43,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment_id": "SIM-20260209160105",
+    "payment_method": "Simulated",
+    "amount_paid": "204",
+    "status": "COMPLETED",
+    "created_at": "2026-02-09T10:31:05.245Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 44,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment_id": "SIM-20260209160146",
+    "payment_method": "Simulated",
+    "amount_paid": "204",
+    "status": "COMPLETED",
+    "created_at": "2026-02-09T10:31:46.347Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 45,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment_id": "SIM-20260209160218",
+    "payment_method": "Simulated",
+    "amount_paid": "612",
+    "status": "COMPLETED",
+    "created_at": "2026-02-09T10:32:18.906Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 46,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment_id": "SIM-20260209160325",
+    "payment_method": "Simulated",
+    "amount_paid": "204",
+    "status": "COMPLETED",
+    "created_at": "2026-02-09T10:33:25.634Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 47,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment_id": "SIM-20260209160340",
+    "payment_method": "Simulated",
+    "amount_paid": "204",
+    "status": "COMPLETED",
+    "created_at": "2026-02-09T10:33:40.509Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 48,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment_id": "SIM-20260209161432",
+    "payment_method": "Simulated",
+    "amount_paid": "204",
+    "status": "COMPLETED",
+    "created_at": "2026-02-09T10:44:32.227Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 49,
+  "fields": {
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "payment_id": "SIM-20260212161625",
+    "payment_method": "UPI",
+    "amount_paid": "204",
+    "status": "COMPLETED",
+    "created_at": "2026-02-12T10:46:25.264Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 50,
+  "fields": {
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "payment_id": "SIM-20260216105248",
+    "payment_method": "UPI",
+    "amount_paid": "204",
+    "status": "COMPLETED",
+    "created_at": "2026-02-16T05:22:48.069Z"
+  }
+},
+{
+  "model": "orders.payment",
+  "pk": 51,
+  "fields": {
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "payment_id": "SIM-20260216110611",
+    "payment_method": "UPI",
+    "amount_paid": "408",
+    "status": "COMPLETED",
+    "created_at": "2026-02-16T05:36:11.729Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 90,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": 43,
+    "order_number": "2026020990",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "country": "India",
+    "state": "MH",
+    "city": "Pune",
+    "order_note": "c",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-09T10:31:04.344Z",
+    "updated_at": "2026-02-09T10:31:04.344Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 91,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": 44,
+    "order_number": "2026020991",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "d",
+    "country": "India",
+    "state": "d3",
+    "city": "d3",
+    "order_note": "d3",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-09T10:31:45.331Z",
+    "updated_at": "2026-02-09T10:31:45.331Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 92,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": 45,
+    "order_number": "2026020992",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "country": "India",
+    "state": "MH",
+    "city": "Pune",
+    "order_note": "f",
+    "order_total": 612.0,
+    "tax": 12.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-09T10:32:18.023Z",
+    "updated_at": "2026-02-09T10:32:18.023Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 93,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": 46,
+    "order_number": "2026020993",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "country": "India",
+    "state": "MH",
+    "city": "Pune",
+    "order_note": "",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-09T10:33:21.481Z",
+    "updated_at": "2026-02-09T10:33:21.481Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 94,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": 47,
+    "order_number": "2026020994",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "country": "India",
+    "state": "MH",
+    "city": "Pune",
+    "order_note": "tr",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-09T10:33:39.173Z",
+    "updated_at": "2026-02-09T10:33:39.173Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 95,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": null,
+    "order_number": "2026020995",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "country": "India",
+    "state": "MH",
+    "city": "Pune",
+    "order_note": "ewv",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": false,
+    "created_at": "2026-02-09T10:44:22.790Z",
+    "updated_at": "2026-02-09T10:44:22.790Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 96,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": null,
+    "order_number": "2026020996",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "country": "India",
+    "state": "MH",
+    "city": "Pune",
+    "order_note": "ewv",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": false,
+    "created_at": "2026-02-09T10:44:27.793Z",
+    "updated_at": "2026-02-09T10:44:27.793Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 97,
+  "fields": {
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "payment": 48,
+    "order_number": "2026020997",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "ishq",
+    "country": "India",
+    "state": "MH",
+    "city": "Pune",
+    "order_note": "ewv",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-09T10:44:30.433Z",
+    "updated_at": "2026-02-09T10:44:30.433Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 98,
+  "fields": {
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "payment": 49,
+    "order_number": "2026021298",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "fr",
+    "country": "India",
+    "state": "fer",
+    "city": "er",
+    "order_note": "re",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-12T10:46:23.897Z",
+    "updated_at": "2026-02-12T10:46:23.897Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 99,
+  "fields": {
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "payment": 50,
+    "order_number": "2026021699",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "fr",
+    "country": "India",
+    "state": "fer",
+    "city": "er",
+    "order_note": "vr",
+    "order_total": 204.0,
+    "tax": 4.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-16T05:22:46.363Z",
+    "updated_at": "2026-02-16T05:22:46.363Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 100,
+  "fields": {
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "payment": 51,
+    "order_number": "20260216100",
+    "first_name": "Ishaaq",
+    "last_name": "Shaikh",
+    "phone": "7387577211",
+    "email": "ishaaq.shaikh22@vit.edu",
+    "address_line_1": "ishq crib",
+    "address_line_2": "fr",
+    "country": "India",
+    "state": "fer",
+    "city": "er",
+    "order_note": "ec",
+    "order_total": 408.0,
+    "tax": 8.0,
+    "status": "New",
+    "ip": "127.0.0.1",
+    "is_ordered": true,
+    "created_at": "2026-02-16T05:35:27.814Z",
+    "updated_at": "2026-02-16T05:35:27.814Z"
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 47,
+  "fields": {
+    "order": 90,
+    "payment": 43,
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "product": 1,
+    "quantity": "1",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-09T10:31:05.275Z",
+    "updated_at": "2026-02-09T10:31:05.275Z",
+    "variation": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 48,
+  "fields": {
+    "order": 91,
+    "payment": 44,
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "product": 3,
+    "quantity": "1",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-09T10:31:46.364Z",
+    "updated_at": "2026-02-09T10:31:46.364Z",
+    "variation": [
+      2,
+      10
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 49,
+  "fields": {
+    "order": 92,
+    "payment": 45,
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "product": 1,
+    "quantity": "3",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-09T10:32:19.193Z",
+    "updated_at": "2026-02-09T10:32:19.193Z",
+    "variation": [
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 50,
+  "fields": {
+    "order": 93,
+    "payment": 46,
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "product": 1,
+    "quantity": "1",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-09T10:33:25.677Z",
+    "updated_at": "2026-02-09T10:33:25.677Z",
+    "variation": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 51,
+  "fields": {
+    "order": 94,
+    "payment": 47,
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "product": 1,
+    "quantity": "1",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-09T10:33:40.561Z",
+    "updated_at": "2026-02-09T10:33:40.561Z",
+    "variation": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 52,
+  "fields": {
+    "order": 97,
+    "payment": 48,
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "product": 1,
+    "quantity": "1",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-09T10:44:32.247Z",
+    "updated_at": "2026-02-09T10:44:32.247Z",
+    "variation": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 53,
+  "fields": {
+    "order": 98,
+    "payment": 49,
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "product": 1,
+    "quantity": "1",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-12T10:46:25.289Z",
+    "updated_at": "2026-02-12T10:46:25.289Z",
+    "variation": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 54,
+  "fields": {
+    "order": 99,
+    "payment": 50,
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "product": 1,
+    "quantity": "1",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-16T05:22:48.095Z",
+    "updated_at": "2026-02-16T05:22:48.095Z",
+    "variation": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "orders.orderproduct",
+  "pk": 55,
+  "fields": {
+    "order": 100,
+    "payment": 51,
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "product": 1,
+    "quantity": "2",
+    "product_price": 200.0,
+    "ordered": true,
+    "created_at": "2026-02-16T05:36:11.748Z",
+    "updated_at": "2026-02-16T05:36:11.748Z",
+    "variation": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add Category",
+    "content_type": [
+      "category",
+      "category"
+    ],
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change Category",
+    "content_type": [
+      "category",
+      "category"
+    ],
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete Category",
+    "content_type": [
+      "category",
+      "category"
+    ],
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view Category",
+    "content_type": [
+      "category",
+      "category"
+    ],
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add account",
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "codename": "add_account"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change account",
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "codename": "change_account"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete account",
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "codename": "delete_account"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view account",
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "codename": "view_account"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add product",
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change product",
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete product",
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view product",
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add cart item",
+    "content_type": [
+      "carts",
+      "cartitem"
+    ],
+    "codename": "add_cartitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change cart item",
+    "content_type": [
+      "carts",
+      "cartitem"
+    ],
+    "codename": "change_cartitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete cart item",
+    "content_type": [
+      "carts",
+      "cartitem"
+    ],
+    "codename": "delete_cartitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view cart item",
+    "content_type": [
+      "carts",
+      "cartitem"
+    ],
+    "codename": "view_cartitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add cart",
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "codename": "add_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change cart",
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "codename": "change_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete cart",
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "codename": "delete_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view cart",
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "codename": "view_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add variation",
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "codename": "add_variation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change variation",
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "codename": "change_variation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete variation",
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "codename": "delete_variation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view variation",
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "codename": "view_variation"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add payment",
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "codename": "add_payment"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change payment",
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "codename": "change_payment"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete payment",
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "codename": "delete_payment"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view payment",
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "codename": "view_payment"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add order product",
+    "content_type": [
+      "orders",
+      "orderproduct"
+    ],
+    "codename": "add_orderproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change order product",
+    "content_type": [
+      "orders",
+      "orderproduct"
+    ],
+    "codename": "change_orderproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete order product",
+    "content_type": [
+      "orders",
+      "orderproduct"
+    ],
+    "codename": "delete_orderproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view order product",
+    "content_type": [
+      "orders",
+      "orderproduct"
+    ],
+    "codename": "view_orderproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add user profile",
+    "content_type": [
+      "accounts",
+      "userprofile"
+    ],
+    "codename": "add_userprofile"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change user profile",
+    "content_type": [
+      "accounts",
+      "userprofile"
+    ],
+    "codename": "change_userprofile"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete user profile",
+    "content_type": [
+      "accounts",
+      "userprofile"
+    ],
+    "codename": "delete_userprofile"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view user profile",
+    "content_type": [
+      "accounts",
+      "userprofile"
+    ],
+    "codename": "view_userprofile"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-02-02T05:23:02.587Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "10",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-02-02T05:24:44.824Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "11",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-02-02T05:26:11.652Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "12",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-02-02T05:28:57.793Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "13",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-02-02T05:37:21.072Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "14",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-02-02T06:09:15.169Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "15",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-02-02T06:12:13.291Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "16",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-02-02T06:15:07.302Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "17",
+    "object_repr": "ishaaqshaikh460@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-02-02T06:17:05.075Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "18",
+    "object_repr": "ishaaq.shaikh22@vit.edu",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-02-02T06:26:44.041Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "19",
+    "object_repr": "ishaaq.shaikh22@vit.edu",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-02-02T06:29:13.693Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "object_id": "8",
+    "object_repr": "large",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-02-02T06:29:25.714Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "object_id": "9",
+    "object_repr": "white",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2026-02-02T06:29:34.024Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "object_id": "10",
+    "object_repr": "large",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2026-02-02T06:29:39.825Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "object_id": "11",
+    "object_repr": "black",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2026-02-03T10:04:21.535Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "20",
+    "object_repr": "ishaaq.shaikh22@vit.edu",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2026-02-03T10:09:22.590Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "22",
+    "object_repr": "ishaaq.shaikh22@vit.edu",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2026-02-03T10:45:21.265Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "1",
+    "object_repr": "Ishaaq",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2026-02-03T10:46:45.715Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "1",
+    "object_repr": "Ishaaq",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "32",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "31",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "30",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "29",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "28",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "27",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "26",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "25",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "24",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "23",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "22",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "21",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "20",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "19",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "18",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "17",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "16",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "15",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "14",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "13",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "12",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "11",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "10",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "9",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "8",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "7",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "6",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "5",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "4",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "3",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "2",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2026-02-04T05:22:36.525Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "1",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2026-02-04T06:34:42.116Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "4",
+    "object_repr": "SIM-20260204120134",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2026-02-04T06:34:42.116Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "3",
+    "object_repr": "SIM-20260204114350",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2026-02-04T06:34:42.116Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "2",
+    "object_repr": "SIM-20260204113447",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2026-02-04T06:34:42.116Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "1",
+    "object_repr": "SIM-20260204113133",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2026-02-04T06:34:51.732Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "35",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2026-02-04T06:34:51.732Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "34",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2026-02-04T06:34:51.732Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "33",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2026-02-04T06:44:05.893Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "7",
+    "object_repr": "SIM-20260204121102",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2026-02-04T06:44:05.893Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "6",
+    "object_repr": "SIM-20260204120640",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2026-02-04T06:44:05.893Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "5",
+    "object_repr": "SIM-20260204120528",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2026-02-04T10:59:08.976Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "userprofile"
+    ],
+    "object_id": "1",
+    "object_repr": "ishq",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2026-02-04T12:56:30.300Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "userprofile"
+    ],
+    "object_id": "2",
+    "object_repr": "Ishaaq",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2026-02-05T06:40:40.978Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "23",
+    "object_repr": "ishaaq.shaikh22@vit.edu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is staff\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2026-02-05T06:40:46.046Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "accounts",
+      "account"
+    ],
+    "object_id": "23",
+    "object_repr": "ishaaq.shaikh22@vit.edu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is admin\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2026-02-09T07:42:02.557Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "store",
+      "variation"
+    ],
+    "object_id": "10",
+    "object_repr": "small",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Variation value\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2026-02-09T07:48:09.052Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "wrangler teal shirt",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Stock\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.283Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "58",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.283Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "57",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.283Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "56",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "55",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "54",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "53",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "52",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "51",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "50",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "49",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "48",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "47",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "46",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "45",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2026-02-09T08:08:50.284Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "44",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2026-02-09T08:08:54.381Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "43",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2026-02-09T08:12:45.741Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "59",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2026-02-09T08:14:17.600Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "60",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "22",
+    "object_repr": "SIM-20260209134343",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "21",
+    "object_repr": "SIM-20260209133911",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "20",
+    "object_repr": "SIM-20260209132953",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "19",
+    "object_repr": "SIM-20260209132737",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "18",
+    "object_repr": "SIM-20260209132647",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "17",
+    "object_repr": "SIM-20260209132453",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "16",
+    "object_repr": "SIM-20260209131823",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "15",
+    "object_repr": "SIM-20260209131526",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "14",
+    "object_repr": "SIM-20260209131424",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "13",
+    "object_repr": "SIM-20260209131242",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "12",
+    "object_repr": "SIM-20260205120854",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "11",
+    "object_repr": "SIM-20260205120648",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "10",
+    "object_repr": "SIM-20260205120533",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "9",
+    "object_repr": "SIM-20260204124641",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2026-02-09T08:14:23.465Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "8",
+    "object_repr": "SIM-20260204124007",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2026-02-09T08:16:03.626Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "orderproduct"
+    ],
+    "object_id": "27",
+    "object_repr": "wrangler teal shirt",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2026-02-09T08:17:58.772Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "63",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2026-02-09T08:17:58.772Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "62",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "80",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "79",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "78",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "77",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "76",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "75",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "74",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "73",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "72",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "71",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "70",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "69",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "68",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "67",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2026-02-09T10:11:05.642Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "66",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2026-02-09T10:11:09.957Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "65",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2026-02-09T10:11:09.957Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "64",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "37",
+    "object_repr": "SIM-20260209153818",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "36",
+    "object_repr": "SIM-20260209153444",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "35",
+    "object_repr": "SIM-20260209153414",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "34",
+    "object_repr": "SIM-20260209140447",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "33",
+    "object_repr": "SIM-20260209140236",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "32",
+    "object_repr": "SIM-20260209135825",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "31",
+    "object_repr": "SIM-20260209135658",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "30",
+    "object_repr": "SIM-20260209135545",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "29",
+    "object_repr": "SIM-20260209135314",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "28",
+    "object_repr": "SIM-20260209135205",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "27",
+    "object_repr": "SIM-20260209135138",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "26",
+    "object_repr": "SIM-20260209134931",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "25",
+    "object_repr": "SIM-20260209134844",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "24",
+    "object_repr": "SIM-20260209134658",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2026-02-09T10:11:15.066Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "23",
+    "object_repr": "SIM-20260209134439",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "41",
+    "object_repr": "487658ayrcv6dmwclro1m0qvv4kpd5rd",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "40",
+    "object_repr": "3z3947h27mixg5v0fnai3ctm9krowo8f",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "39",
+    "object_repr": "x3x5bs8xokun77wcw8ig00kbw14fg6v3",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "38",
+    "object_repr": "8hj9a8q0636kb88yy4f5wp34bnjzsfuc",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "37",
+    "object_repr": "9osp0impvlygwrehbrf1jbomong9mggg",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "36",
+    "object_repr": "hlmxccwm8pyoiqh4qqgddx5qtshv2cyr",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "35",
+    "object_repr": "nnbsk2ptt75uv6r83qm00vtli8i508rt",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "34",
+    "object_repr": "ow484h79t7vetzbk9iy3z6541adwbtty",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "33",
+    "object_repr": "t7nzexs8mrqb6k46xc9shi3xbyo1223e",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "32",
+    "object_repr": "3vh75gigu6iqxcd6thkf6w08a1e2054q",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "31",
+    "object_repr": "0wzh07xbkhsakq6ebu86clxd8khgbp55",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "30",
+    "object_repr": "janlgdfgec5gqrzlly8hd9372gcfyheo",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "29",
+    "object_repr": "ux3fs2306ex0onxte2dsqlt8qth39ngc",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "28",
+    "object_repr": "ggz3npc9q2slzcmp0xzvqt6r9jxl2t2b",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 180,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "27",
+    "object_repr": "jzos2pq3rw18saoa92wkm6vu99xecon9",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 181,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "26",
+    "object_repr": "l2kd9qhmr3ue9ltj57qadgcp34luslli",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 182,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "25",
+    "object_repr": "l1ir29w0tfer8ow43w7pgzexlzt3se45",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 183,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "24",
+    "object_repr": "53rierhn7778vqix31tdnvbli5lj7q0l",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 184,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "23",
+    "object_repr": "wr9mdyzpw7gk6dlfka67tgjuwmv7ng2n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 185,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "22",
+    "object_repr": "2ouf16k4ess6ixdq2jracir7xr1ctoc1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 186,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "21",
+    "object_repr": "ct5okl3br1vkjddwm4h21seogkcpcf0h",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 187,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "20",
+    "object_repr": "i7f0djxbo9fgjhuydz8cp1v0pn025jsc",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 188,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "19",
+    "object_repr": "yvsig385218ut2si3so624kx2pq3de1w",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 189,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "18",
+    "object_repr": "wdvt03xyudgrw6g913ec227csiomq1p4",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 190,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "17",
+    "object_repr": "417zshfcn516kkxx75yt0q09cw5cyz05",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 191,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "16",
+    "object_repr": "p2nb1jye5k690f6pagbjb9xlttfatk1c",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 192,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "15",
+    "object_repr": "ct9zcf24twpg1lzb9tho7pr1pvpy92ky",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 193,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "14",
+    "object_repr": "0vpbpl4yeozu012vb1fbxclcmaeicpom",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 194,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "13",
+    "object_repr": "h86jtz04s4fe5ymys11e37ugi8ccfpsv",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 195,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "12",
+    "object_repr": "uct3nhly5frnzn570iq3cvj6nqcsyqek",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 196,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "11",
+    "object_repr": "j5xbk7v5clawzp6at9qszc85uilsio43",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 197,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "10",
+    "object_repr": "662m0ztp09f5hwedvvcwkovm1rx0mw57",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 198,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "9",
+    "object_repr": "aqzch56gx9246dysf7qbc7phhf86eyjx",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 199,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "8",
+    "object_repr": "t1toi4eugernv03cjab9uv9wzn9vlitp",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 200,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "7",
+    "object_repr": "qrp13bkpxh8llhgti70a9xf9o5kb7czw",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 201,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "6",
+    "object_repr": "oyqb65x9uhyexyiqe715a5m4uy2572e0",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 202,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "5",
+    "object_repr": "gp3xq9fwuw4r8vd70vd0byvbfiw9onoz",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 203,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "4",
+    "object_repr": "3n1o4n12f8e86dfidu7clysbt1ivpt38",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 204,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "3",
+    "object_repr": "49qds71ye7w13mdglmz3v5aayxfz8d6l",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 205,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "2",
+    "object_repr": "9ijy4pxtm8pjvl842xp4hj18h0529z1n",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 206,
+  "fields": {
+    "action_time": "2026-02-09T10:11:27.625Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "carts",
+      "cart"
+    ],
+    "object_id": "1",
+    "object_repr": "7blqs9vqhsjntxm5hugej72299y4e7bo",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 207,
+  "fields": {
+    "action_time": "2026-02-09T10:25:09.152Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "85",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 208,
+  "fields": {
+    "action_time": "2026-02-09T10:25:09.152Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "84",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 209,
+  "fields": {
+    "action_time": "2026-02-09T10:25:09.153Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "83",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 210,
+  "fields": {
+    "action_time": "2026-02-09T10:25:09.153Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "82",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 211,
+  "fields": {
+    "action_time": "2026-02-09T10:25:09.153Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "81",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 212,
+  "fields": {
+    "action_time": "2026-02-09T10:25:13.372Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "40",
+    "object_repr": "SIM-20260209154536",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 213,
+  "fields": {
+    "action_time": "2026-02-09T10:25:13.373Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "39",
+    "object_repr": "SIM-20260209154232",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 214,
+  "fields": {
+    "action_time": "2026-02-09T10:25:13.373Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "38",
+    "object_repr": "SIM-20260209154157",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 215,
+  "fields": {
+    "action_time": "2026-02-09T10:30:40.646Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "89",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 216,
+  "fields": {
+    "action_time": "2026-02-09T10:30:40.646Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "88",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 217,
+  "fields": {
+    "action_time": "2026-02-09T10:30:40.646Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "87",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 218,
+  "fields": {
+    "action_time": "2026-02-09T10:30:40.646Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "86",
+    "object_repr": "Ishaaq",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 219,
+  "fields": {
+    "action_time": "2026-02-09T10:30:45.470Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "42",
+    "object_repr": "SIM-20260209155918",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 220,
+  "fields": {
+    "action_time": "2026-02-09T10:30:45.470Z",
+    "user": [
+      "ishaaq.shaikh22@vit.edu"
+    ],
+    "content_type": [
+      "orders",
+      "payment"
+    ],
+    "object_id": "41",
+    "object_repr": "SIM-20260209155704",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 221,
+  "fields": {
+    "action_time": "2026-02-10T05:40:21.096Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "category",
+      "category"
+    ],
+    "object_id": "6",
+    "object_repr": "Shoes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 222,
+  "fields": {
+    "action_time": "2026-02-10T05:40:30.214Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "6",
+    "object_repr": "High Ankle Sneakers",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 223,
+  "fields": {
+    "action_time": "2026-02-10T05:40:45.621Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "6",
+    "object_repr": "High Ankle Sneakers",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 224,
+  "fields": {
+    "action_time": "2026-02-12T12:18:09.742Z",
+    "user": [
+      "ishq@gmail.com"
+    ],
+    "content_type": [
+      "category",
+      "category"
+    ],
+    "object_id": "7",
+    "object_repr": "Books",
+    "action_flag": 3,
+    "change_message": ""
+  }
+}
+]

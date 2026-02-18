@@ -1,0 +1,21 @@
+features to add - 
+
+use own API - (used drf but cant implement properly since both frontend and backend in django)
+
+currency converter
+
+language switch
+
+search by product/category
+
+for a product/variation , the appropriate color is to be shown
+
+Pagination on products 
+
+Proper filtering (price range, rating)
+
+Wishlist system
+
+Product review API
+
+when u hover on an image, show the image magnified

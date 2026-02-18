@@ -1,0 +1,107 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+<section class="section-content padding-y bg">
+<div class="container">
+
+{% if not wishlist_items %}
+
+<h2>Wishlist is Empty !!</h2>
+<br>
+<div class="text-center">
+	<a href="{% url 'store' %}" class="btn btn-primary">Continue Shopping</a>
+</div>
+
+{% else %}
+
+<h2>{{request.user.username}}'s Wishlist</h2>
+<div class="row">
+	<aside class="col-lg-12">
+
+<div class="card">
+<table class="table table-borderless table-shopping-cart">
+<thead class="text-muted">
+<tr class="small text-uppercase">
+  <th scope="col">Product</th>
+  <th scope="col" width="200">Price</th>
+  <th scope="col" width="200">Stock</th>
+  <th scope="col" class="text-right" width="200"></th>
+</tr>
+</thead>
+
+<tbody>
+
+{% for item in wishlist_items %}
+<tr>
+	<td>
+		<figure class="itemside align-items-center">
+			<div class="aside">
+				<img src="{{ item.product.images.url }}" class="img-sm">
+			</div>
+			<figcaption class="info">
+				<a href="{{ item.product.get_url }}" class="title text-dark">{{ item.product.product_name }}</a>
+				<p class="text-muted small">
+					{% if item.variations.exists %} <!--check if the item has variations linked-->
+					   {% for variation in item.variations.all %} <!--see now for all the variation in it -->
+					   {{variation.variation_category | capfirst }} : {{variation.variation_value | capfirst}} <br> <!--this shows the variation with captial letter first-->
+                       {% endfor %}
+					{% endif %}
+				</p>
+			</figcaption>
+		</figure>
+	</td>
+
+	<td>
+		<div class="price-wrap m-auto">
+			<var class="price">{{ item.product.price }}₹</var>
+		</div>
+	</td>
+
+	<td>
+		{% if item.product.stock > 0 %}
+			<span class="text-success m-auto">In Stock</span>
+		{% else %}
+			<span class="text-danger m-auto">Out of Stock</span>
+		{% endif %}
+	</td>
+
+<td class="align-middle text-end">
+    <div class="d-flex flex-column align-items-end" style="gap:10px;">
+
+        <a href="{% url 'move_to_cart' item.product.id %}" 
+           class="btn btn-primary py-2"
+           style="width:140px;">
+            Add to Cart
+        </a>
+
+        <a href="{% url 'remove_from_wishlist' item.product.id %}" 
+           onclick="return confirm('Are you sure?')"
+           class="btn btn-outline-danger"
+           style="width:140px;">
+            Remove Item
+        </a>
+
+    </div>
+</td>
+
+
+
+</tr>
+{% endfor %}
+
+</tbody>
+</table>
+</div>
+
+	</aside>
+</div>
+
+{% endif %}
+
+</div>
+</section>
+
+{% endblock %}
+
+
